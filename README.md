@@ -6,4 +6,4 @@ The world of data science offers endless opportunities for innovative projects, 
 
 You can explore the entire analysis by reviewing the project files, or you can refer to my Medium article for detailed explanations: 
 
-You can also utilize the model I developed in this project through the Streamlit application: https://xwines.streamlit.app
+You can also utilize the model I developed in this project through the [Streamlit application](https://xwines.streamlit.app)
